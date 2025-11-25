@@ -31,7 +31,7 @@ export default function BlogDetails() {
             <div className="post-details-content">
               <div className="post-details-body">
                 <div className="thumb">
-                  <img className="w-100" src="/assets/img/blog/details/5.jpg" alt="Image"/ />
+                  <img className="w-100" src="/assets/img/blog/details/5.jpg" alt="Image" />
                 </div>
                 <div className="content">
                   <div className="meta">By, <Link href="/blog" className="author">June Cha </Link><span className="dots"></span><span className="post-date">25 May, 2021</span></div>
@@ -50,12 +50,12 @@ export default function BlogDetails() {
                   <div className="row">
                     <div className="col-md-6">
                       <div className="thumb-inner">
-                        <img className="w-100" src="/assets/img/blog/details/6.jpg" alt="Image" / />
+                        <img className="w-100" src="/assets/img/blog/details/6.jpg" alt="Image" />
                       </div>
                     </div>
                     <div className="col-md-6">
                       <div className="thumb-inner mb-sm-30">
-                        <img className="w-100" src="/assets/img/blog/details/7.jpg" alt="Image" / />
+                        <img className="w-100" src="/assets/img/blog/details/7.jpg" alt="Image" />
                       </div>
                     </div>
                   </div>
@@ -79,7 +79,7 @@ export default function BlogDetails() {
                               <li>Aidyn Cody <span> - 25 May, 2121</span></li>
                             </ul>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididun ut labore et dolore magna aliqua.</p>
-                            <a className="btn-theme" href="#/">Reply</a></Link>
+                            <a className="btn-theme" href="#/">Reply</a>
                           </div>
                         </div>
                       </div>
@@ -95,7 +95,7 @@ export default function BlogDetails() {
                               <li>Jivan Cody <span> - 25 May, 2121</span></li>
                             </ul>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididun ut labore et dolore magna aliqua.</p>
-                            <a className="btn-theme" href="#/">Reply</a></Link>
+                            <a className="btn-theme" href="#/">Reply</a>
                           </div>
                         </div>
                       </div>
@@ -111,7 +111,7 @@ export default function BlogDetails() {
                               <li>Rose Cody <span> - 25 May, 2121</span></li>
                             </ul>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididun ut labore et dolore magna aliqua.</p>
-                            <a className="btn-theme" href="#/">Reply</a></Link>
+                            <a className="btn-theme" href="#/">Reply</a>
                           </div>
                         </div>
                       </div>

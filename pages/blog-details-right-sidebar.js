@@ -31,7 +31,7 @@ export default function BlogDetailsRightSidebar() {
             <div className="post-details-content">
               <div className="post-details-body">
                 <div className="thumb">
-                  <img className="w-100" src="/assets/img/blog/details/5.jpg" alt="Image"/ />
+                  <img className="w-100" src="/assets/img/blog/details/5.jpg" alt="Image" />
                 </div>
                 <div className="content">
                   <div className="meta">By, <Link href="/blog" className="author">June Cha </Link><span className="dots"></span><span className="post-date">25 May, 2021</span></div>
@@ -50,12 +50,12 @@ export default function BlogDetailsRightSidebar() {
                   <div className="row">
                     <div className="col-md-6">
                       <div className="thumb-inner">
-                        <img className="w-100" src="/assets/img/blog/details/6.jpg" alt="Image" / />
+                        <img className="w-100" src="/assets/img/blog/details/6.jpg" alt="Image" />
                       </div>
                     </div>
                     <div className="col-md-6">
                       <div className="thumb-inner mb-sm-30">
-                        <img className="w-100" src="/assets/img/blog/details/7.jpg" alt="Image" / />
+                        <img className="w-100" src="/assets/img/blog/details/7.jpg" alt="Image" />
                       </div>
                     </div>
                   </div>

@@ -238,9 +238,9 @@ export default function Blog4Column() {
                           <Link href="/blog" className="page-number">3</Link>
                         </li>
                         <li>
-                          <a className="page-number next" href="/blog">
+                          <Link href="/blog" className="page-number next">
                             <i className="fa fa-angle-right"></i>
-                          </a></Link>
+                          </Link>
                         </li>
                       </ul>
                     </nav>
